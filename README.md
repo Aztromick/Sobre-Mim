@@ -9,4 +9,4 @@ Sou Estudante de Desenvolvimento de Sistemas
 Tenho HTML, CSS, JS, Python e C#
 
 ## Contate-me
-Você pode me contata no emmail aztromick1105@gmail.com
+Você pode me contata no email aztromick1105@gmail.com
